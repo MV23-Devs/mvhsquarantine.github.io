@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #FFC312;
+    padding: 10px;
+}
+
+footer {
+    padding: 10px;
+    background: #000;
+    color: white;
+}
