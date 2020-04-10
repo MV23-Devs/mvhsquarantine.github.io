@@ -1,4 +1,4 @@
 # Quarantine-Social
 ASB Class Socials
 
-Created By: Jacob Ismael
+Created By: Jason Zhang, Jacob Ismael, Saarang Bondalapati
