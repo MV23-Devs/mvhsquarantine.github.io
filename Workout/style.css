@@ -16,3 +16,10 @@ header {
     display: block;
     margin: 0 auto;
 }
+
+.center-align{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
