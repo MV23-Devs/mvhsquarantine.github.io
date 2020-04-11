@@ -71,7 +71,6 @@ a:visited{
 }
 .links.cooking {
 
-
     background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/overhead-view-of-baking-ingredients-and-a-notepad-royalty-free-image-930086476-1546440806.jpg%22")
 
 }
@@ -105,4 +104,6 @@ a:visited{
 
 footer{
     text-align: center;
+    padding: 30px;
+    background-color: #2d3436;
 }
