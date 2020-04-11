@@ -23,3 +23,15 @@ header {
     text-align: center;
     align-items: center;
 }
+
+a{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
