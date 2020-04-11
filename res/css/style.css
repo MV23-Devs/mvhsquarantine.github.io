@@ -103,10 +103,11 @@ a:visited{
     font-size: 25px
 }
 
-footer{
+.footer{
     text-align: center;
     padding: 30px;
     background-color: #2d3436;
+    bottom: 0;
 }
 
 .covid-button {
