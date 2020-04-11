@@ -11,16 +11,3 @@ header {
 .center{
     text-align: center;
 }
-
-.center-align{
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    align-items: center;
-}
-
-
-.iframe{
-    display: block;
-    margin: 0 auto;
-}

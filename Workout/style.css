@@ -7,3 +7,19 @@ header {
     background: #FFC312;
     padding: 10px;
 }
+
+.center{
+    text-align: center;
+}
+
+.iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+.center-align{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
