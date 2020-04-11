@@ -19,10 +19,17 @@ header {
     background-color: #FFC312;
 }
 
+.links:hover{
+    background-color: #e15f41;
+    transition:1s;
+}
+
 a{
+    margin-top: 10%;
     background-color: #FFC312;
     color: black;
     text-decoration: none;
+    transition:1s;
 }
 
 a:visited{
@@ -31,9 +38,11 @@ a:visited{
     text-decoration: none;
 }
 
+
 .content {
     padding: 10px;
 }
+
 
 .card {
     /*
