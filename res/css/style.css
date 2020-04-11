@@ -54,6 +54,10 @@ a:visited{
     text-align: center;
 }
 
+.align-center{
+    align-content: center;
+}
+
 .main {
     width: 100%;
 }
