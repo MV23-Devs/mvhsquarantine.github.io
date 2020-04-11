@@ -107,3 +107,14 @@ footer{
     padding: 30px;
     background-color: #2d3436;
 }
+
+.covid-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #FFC312;
+    outline: none;
+    margin: 0 auto;
+    display: block;
+    font-size: 25px;
+    border-radius: 5px;
+}
