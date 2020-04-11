@@ -3,5 +3,5 @@ $(document).ready(function() {
 });
 
 $(".covid-button").click(function() {
-    window.location.href = 'https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx';
+    window.open('https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx','_blank');
 })
