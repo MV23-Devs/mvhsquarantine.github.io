@@ -106,6 +106,8 @@ a:visited{
     padding: 30px;
     background-color: #2d3436;
     bottom: 0;
+    margin-top: 20px;
+    color: white;
 }
 
 .covid-button {
