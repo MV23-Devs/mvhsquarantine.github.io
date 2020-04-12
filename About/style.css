@@ -19,6 +19,11 @@ header {
     align-items: center;
 }
 
+.paragraph {
+    text-align: center;
+    padding: 0px;
+}
+
 .iframe{
     display: block;
     margin: 0 auto;
