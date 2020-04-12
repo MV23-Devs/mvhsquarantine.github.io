@@ -24,12 +24,37 @@ header {
     margin: 0 auto;
 }
 
+.activity{
+    text-align: center;
+}
+
 .line-color{
     height: 1px;
     color: black;
     background-color: black;
     border: none;
 }
+
+.coloring{
+    background-color: #ffc312;
+    width: 100%;
+}
+
+.coloring:hover{
+    background-color: #f0932b;
+    transition:0.3s;
+}
+
+.signup{
+    text-align: center;
+}
+
+
+.words{
+    text-align: center;
+    font-size: 25px;
+}
+
 
 a{
     background-color: #FFC312;
