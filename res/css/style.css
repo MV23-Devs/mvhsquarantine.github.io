@@ -165,11 +165,11 @@ footer .footer-links {
     cursor: pointer;
 }
 
-.seconds {
+.flecs {
     display: flex;
 }
 
-.seconds div {
+.flecs div {
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
