@@ -89,6 +89,7 @@ a:visited{
     background-image: url("https://www.tutorialrepublic.com/snippets/designs/simple-registration-form.png")
 }
 .links.about {
+    margin-bottom: 10px;
     background-image: url("https://blog-assets.hootsuite.com/wp-content/uploads/2018/03/how-to-create-a-facebook-business-page-20.png")
 }
 .links p {
