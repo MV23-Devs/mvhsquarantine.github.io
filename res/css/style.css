@@ -89,7 +89,7 @@ a:visited{
     background-image: url("https://www.tutorialrepublic.com/snippets/designs/simple-registration-form.png")
 }
 .links.about {
-    background-image: url("")
+    background-image: url(".res/img/about.png")
 }
 .links p {
     text-align: center;
