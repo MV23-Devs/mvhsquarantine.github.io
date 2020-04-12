@@ -95,6 +95,11 @@ a:visited{
     text-align: center;
 }
 
+.words{
+    text-align: center;
+    font-size: 25px;
+}
+
 .main {
     width: 100%;
 }
