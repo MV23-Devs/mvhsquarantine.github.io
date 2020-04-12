@@ -151,7 +151,7 @@ a:visited{
 }
 
 footer .footer-links {
-    background: #FFC312;
+    background: none;
     border: 1px solid white;
     padding: 10px 20px;
     color: white;
@@ -163,4 +163,14 @@ footer .footer-links {
     background: white;
     color: black;
     cursor: pointer;
+}
+
+.seconds {
+    display: flex;
+}
+
+.seconds div {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
