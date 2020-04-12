@@ -154,13 +154,13 @@ footer .footer-links {
     background: #FFC312;
     border: 1px solid white;
     padding: 10px 20px;
-    color: white;
+    color: black;
     font-size: 20px;
     transition: 0.2s ease-in-out;
 }
 
 .footer-links:hover {
-    background: white;
+    background: #f0932b;
     color: black;
     cursor: pointer;
 }
