@@ -24,6 +24,13 @@ header {
     margin: 0 auto;
 }
 
+.line-color{
+    height: 1px;
+    color: black;
+    background-color: black;
+    border: none;
+}
+
 a{
     background-color: #FFC312;
     color: black;
@@ -38,6 +45,6 @@ a:visited{
 footer{
     text-align: center;
     padding: 30px;
-    background-color: #2d3436;
+    background-color: white;
     bottom: 0;
 }
