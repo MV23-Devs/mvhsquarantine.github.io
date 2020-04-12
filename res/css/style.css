@@ -128,3 +128,9 @@ a:visited{
     font-size: 25px;
     border-radius: 5px;
 }
+
+.covid-button:hover {
+    background-color: #f0932b;
+    transition: 0.2s;
+
+}
