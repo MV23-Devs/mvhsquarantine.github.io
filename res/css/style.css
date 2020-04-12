@@ -164,3 +164,13 @@ footer .footer-links {
     color: black;
     cursor: pointer;
 }
+
+.seconds {
+    display: flex;
+}
+
+.seconds div {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
