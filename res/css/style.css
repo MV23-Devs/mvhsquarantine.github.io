@@ -156,8 +156,11 @@ footer .footer-links {
     padding: 10px 20px;
     color: white;
     font-size: 20px;
+    transition: 0.2s ease-in-out;
 }
 
 .footer-links:hover {
+    background: white;
+    color: black;
     cursor: pointer;
 }
