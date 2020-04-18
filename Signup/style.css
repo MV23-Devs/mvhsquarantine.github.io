@@ -36,6 +36,11 @@ a{
     color: black;
     text-decoration: none;
 }
+a:hover{
+    background-color: #f0932b;
+    color: black;
+    text-decoration: none;
+}
 
 a:visited{
     background-color: #FFC312;
