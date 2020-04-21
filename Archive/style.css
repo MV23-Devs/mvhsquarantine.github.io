@@ -99,13 +99,6 @@ a:visited{
     margin-bottom: 10px;
     background-image: url("https://blog-assets.hootsuite.com/wp-content/uploads/2018/03/how-to-create-a-facebook-business-page-20.png")
 }
-
-.links.archives {
-    width: 100%;
-    background-image: url("https://img.freepik.com/free-vector/documents-cabinet-files-archive-storage-box_33099-829.jpg?size=626&ext=jpg");
-    background-position: center;
-}
-
 .links p {
     text-align: center;
     color: white;
@@ -127,6 +120,84 @@ a:visited{
 .words{
     text-align: center;
     font-size: 25px;
+}
+
+body {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #FFC312;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.center-align{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
+
+.iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+.activity{
+    text-align: center;
+}
+
+.line-color{
+    height: 1px;
+    color: black;
+    background-color: black;
+    border: none;
+}
+
+.coloring{
+    background-color: #ffc312;
+    width: 100%;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.coloring:hover{
+    background-color: #f0932b;
+    transition:0.3s;
+}
+
+.signup{
+    text-align: center;
+}
+
+
+.words{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+a{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: white;
+    bottom: 0;
 }
 
 .main {
