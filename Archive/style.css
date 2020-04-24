@@ -8,6 +8,20 @@ header {
     padding: 10px;
 }
 
+.collapsible{
+    background-color: #FFC312;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    width: 100%;
+    outline: none;
+    font-size: 20px;
+}
+
+.active, .collapsible:hover {
+    background-color: #f0932b;
+}
+
 .links-display div {
     text-align: center;
     text-decoration: none;
