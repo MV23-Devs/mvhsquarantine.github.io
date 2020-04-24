@@ -231,6 +231,10 @@ footer{
     border-radius: 5px;
 }
 
+.rules {
+    list-style-position: inside;
+}
+
 .covid-button {
     padding: 10px 20px;
     border: none;
