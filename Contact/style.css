@@ -49,9 +49,202 @@ a:visited{
 }
 
 .card2 {
-    height: 200px;
-    width: 800px;
+    margin: auto;
+    text-align: center;
+}
 
+.card .links img {
+    width: 400px;
+}
+
+
+.card p {
+    margin-top: 0;
+
+}
+
+.line-color{
+    height: 1px;
+    color: black;
+    background-color: black;
+    border: none;
+}
+
+.spaced{
+    margin-bottom: 40px;
+}
+
+.links-display div {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.links.jason {
+    background-image: url("./jason.png");
+    background-position: center;
+}
+
+.links.jacob {
+    background-image: url("./jacob.png");
+    background-position: center;
+}
+.links.saarang {
+    background-image: url("./saarang.jpg");
+    background-position: center;
+}
+
+.links p {
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    font-weight: 700;
+    line-height: 200px;
+    padding: 100px;
+    transition: 0s;
+}
+
+.links p:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+    transition: 0s;
+}
+
+.center{
+    text-align: center;
+}
+
+.words{
+    text-align: center;
+    font-size: 25px;
+}
+
+.main {
+    width: 100%;
+}
+
+.activities-title{
+    text-align: center;
+    font-size: 25px
+}
+
+.footer{
+    text-align: center;
+    padding: 30px;
+    background-color: #2d3436;
+    /* display: none; */
+    bottom: 0;
+    margin-top: 20px;
+    color: white;
+}
+
+.covid-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #FFC312;
+    outline: none;
+    margin: 0 auto;
+    display: block;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.covid-button:hover {
+    background-color: #f0932b;
+    transition: 0.2s;
+
+}
+
+footer .footer-links {
+    background: #FFC312;
+    border: none;
+    padding: 10px 20px;
+    color: black;
+    font-size: 20px;
+    transition: 0.2s ease-in-out;
+    margin-bottom: 10px;
+}
+
+.footer-links:hover {
+    background: #f0932b;
+    color: black;
+    cursor: pointer;
+} 
+
+.flecs {
+    display: flex;
+}
+
+.flecs div {
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+@media(max-width: 800px) {
+    .flecs {
+        display: block;
+    }
+    
+    .flecs div {
+        margin: auto;
+        width: 100%;
+    }
+
+    .links.talentshow {
+        height: 100px;
+    }
+}
+
+body {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #FFC312;
+    padding: 10px;
+}
+
+.links-display div {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.links{
+    margin-top: 10%;
+    width: 100%;
+    height: 100%;
+
+    text-align: middle;
+
+    background-size: cover;
+}
+
+a{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+.content {
+    padding: 10px;
+}
+
+.card {
+    height: 200px;
+    width: 550px;
+
+    margin: auto;
+    text-align: center;
+}
+
+.card2 {
     margin: auto;
     text-align: center;
 }

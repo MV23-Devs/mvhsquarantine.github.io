@@ -112,6 +112,12 @@ a:visited{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFoLEHOLNj1oIdztWBS1mIDpSLZoGnPgr0GDwKjip6VDC4xAUu&usqp=CAU");
 }
 
+.links.contact {
+    width: 100%;
+    background-position: center;
+    background-image: url("https://image.freepik.com/free-vector/contact-us-woman-with-headphones-microphone-with-computer_113065-280.jpg");
+}
+
 .links p {
     text-align: center;
     color: white;
