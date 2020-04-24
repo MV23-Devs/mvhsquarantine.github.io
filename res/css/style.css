@@ -106,6 +106,12 @@ a:visited{
     background-position: center;
 }
 
+.links.talentshow {
+    width: 100%;
+    overflow: hidden;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFoLEHOLNj1oIdztWBS1mIDpSLZoGnPgr0GDwKjip6VDC4xAUu&usqp=CAU");
+}
+
 .links p {
     text-align: center;
     color: white;
@@ -199,5 +205,9 @@ footer .footer-links {
     .flecs div {
         margin: auto;
         width: 100%;
+    }
+
+    .links.talentshow {
+        height: 100px;
     }
 }
