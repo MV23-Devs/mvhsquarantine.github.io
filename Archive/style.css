@@ -51,7 +51,9 @@ a:visited{
 }
 
 .content {
-    padding: 10px;
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
 }
 
 .card {
