@@ -1,0 +1,290 @@
+body {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #FFC312;
+    padding: 10px;
+}
+
+.links-display div {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.links{
+    margin-top: 10%;
+    width: 100%;
+    height: 100%;
+
+    text-align: middle;
+
+    background-size: cover;
+}
+
+a{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+.content {
+    padding: 10px;
+}
+
+.card {
+    height: 200px;
+    width: 550px;
+
+    margin: auto;
+    text-align: center;
+}
+
+.card2 {
+    height: 200px;
+    width: 800px;
+
+    margin: auto;
+    text-align: center;
+}
+
+.card .links img {
+    width: 400px;
+}
+
+
+.card p {
+    margin-top: 0;
+
+}
+
+.line-color{
+    height: 1px;
+    color: black;
+    background-color: black;
+    border: none;
+}
+
+.spaced{
+    margin-bottom: 40px;
+}
+
+.links-display div {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.links.cooking {
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/overhead-view-of-baking-ingredients-and-a-notepad-royalty-free-image-930086476-1546440806.jpg")
+}
+
+.links.workout {
+    background-image: url("https://cdn2.coachmag.co.uk/sites/coachmag/files/shutterstock_151938761.jpg")
+}
+.links.gamenight {
+    background-image: url("https://iambuying.pk/wp-content/uploads/2017/09/104151701-GettyImages-143949731.jpg")
+}
+.links.signup {
+    background-image: url("https://www.tutorialrepublic.com/snippets/designs/simple-registration-form.png")
+}
+.links.about {
+    margin-bottom: 10px;
+    background-image: url("https://blog-assets.hootsuite.com/wp-content/uploads/2018/03/how-to-create-a-facebook-business-page-20.png")
+}
+.links p {
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    font-weight: 700;
+    line-height: 200px;
+    transition: 0s;
+}
+
+.links p:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+    transition: 0s;
+}
+
+.center{
+    text-align: center;
+}
+
+.words{
+    text-align: center;
+    font-size: 25px;
+}
+
+body {
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #FFC312;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.center-align{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
+
+.iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+.activity{
+    text-align: center;
+}
+
+.line-color{
+    height: 1px;
+    color: black;
+    background-color: black;
+    border: none;
+}
+
+.coloring{
+    background-color: #ffc312;
+    width: 100%;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.coloring:hover{
+    background-color: #f0932b;
+    transition:0.3s;
+}
+
+.signup{
+    text-align: center;
+}
+
+
+.words{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+a{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    background-color: #FFC312;
+    color: black;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: white;
+    bottom: 0;
+}
+
+.main {
+    width: 100%;
+}
+
+.activities-title{
+    text-align: center;
+    font-size: 25px
+}
+
+.footer{
+    text-align: center;
+    padding: 30px;
+    background-color: #2d3436;
+    /* display: none; */
+    bottom: 0;
+    margin-top: 20px;
+    color: white;
+}
+
+.signupbutton {
+    padding: 10px 20px;
+    border: none;
+    background-color: #FFC312;
+    outline: none;
+    margin: 0 auto;
+    width: 50%;
+    display: block;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.rules {
+    list-style-position: inside;
+}
+
+.covid-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #FFC312;
+    outline: none;
+    margin: 0 auto;
+    display: block;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.covid-button:hover {
+    background-color: #f0932b;
+    transition: 0.2s;
+
+}
+
+footer .footer-links {
+    background: #FFC312;
+    border: none;
+    padding: 10px 20px;
+    color: black;
+    font-size: 20px;
+    transition: 0.2s ease-in-out;
+    margin-bottom: 10px;
+}
+
+.footer-links:hover {
+    background: #f0932b;
+    color: black;
+    cursor: pointer;
+} 
+
+.flecs {
+    display: flex;
+}
+
+.flecs div {
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+@media(max-width: 800px) {
+    .flecs {
+        display: block;
+    }
+    
+    .flecs div {
+        margin: auto;
+        width: 100%;
+    }
+}
