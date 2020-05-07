@@ -19,6 +19,50 @@ header {
     align-items: center;
 }
 
+.card {
+    padding: 100px;
+    height: 200px;
+    width: 550px;
+
+    margin: auto;
+    text-align: center;
+}
+
+.card .links img {
+    width: 400px;
+}
+
+.card p {
+    margin-top: 0;
+
+}
+
+.links-display div {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.links p {
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    font-weight: 700;
+    line-height: 200px;
+    transition: 0s;
+}
+
+.links p:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+    transition: 0s;
+}
+
+
+
+.links.submit{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFoLEHOLNj1oIdztWBS1mIDpSLZoGnPgr0GDwKjip6VDC4xAUu&usqp=CAU");
+}
+
 .iframe{
     display: block;
     margin: 0 auto;
@@ -29,6 +73,11 @@ header {
     color: black;
     background-color: black;
     border: none;
+}
+
+.words{
+    text-align: center;
+    font-size: 25px;
 }
 
 a{
